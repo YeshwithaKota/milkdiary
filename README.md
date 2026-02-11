@@ -1,3 +1,2 @@
 # milkdiary
 sql
-my page
